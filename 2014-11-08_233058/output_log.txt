@@ -1,0 +1,272 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x106)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.148 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Joystick disconnected ("Controller (USB Gamepad)").
+ 
+(Filename:  Line: 707)
+
+Platform assembly: C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Managed\Boo.Lang.dll (this message is harmless)
+Joystick reconnected ("Controller (USB Gamepad)").
+ 
+(Filename:  Line: 1316)
+
+UnloadTime: 33.374043 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.956658 ms (FindLiveObjects: 0.027197 ms CreateObjectMapping: 0.013855 ms MarkObjects: 0.108788 ms  DeleteObjects: 0.006671 ms)
+
+UnloadTime: 0.781021 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.515345 ms (FindLiveObjects: 0.022065 ms CreateObjectMapping: 0.011802 ms MarkObjects: 0.101091 ms  DeleteObjects: 0.006157 ms)
+
+UnloadTime: 0.767166 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.512266 ms (FindLiveObjects: 0.019499 ms CreateObjectMapping: 0.011802 ms MarkObjects: 0.085696 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.778968 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.462490 ms (FindLiveObjects: 0.020526 ms CreateObjectMapping: 0.011802 ms MarkObjects: 0.092367 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.774350 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.448635 ms (FindLiveObjects: 0.020013 ms CreateObjectMapping: 0.012828 ms MarkObjects: 0.088262 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.778968 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.648766 ms (FindLiveObjects: 0.021552 ms CreateObjectMapping: 0.013342 ms MarkObjects: 0.101604 ms  DeleteObjects: 0.008210 ms)
+
+UnloadTime: 1.151006 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.468135 ms (FindLiveObjects: 0.019499 ms CreateObjectMapping: 0.013855 ms MarkObjects: 0.088262 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.809758 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.507135 ms (FindLiveObjects: 0.018986 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.113407 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.792824 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.642608 ms (FindLiveObjects: 0.018986 ms CreateObjectMapping: 0.014368 ms MarkObjects: 0.087236 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.787179 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.533819 ms (FindLiveObjects: 0.021552 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.097499 ms  DeleteObjects: 0.006157 ms)
+
+UnloadTime: 0.783587 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.432214 ms (FindLiveObjects: 0.019499 ms CreateObjectMapping: 0.020013 ms MarkObjects: 0.085183 ms  DeleteObjects: 0.004618 ms)
+
+UnloadTime: 0.802060 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.491740 ms (FindLiveObjects: 0.019499 ms CreateObjectMapping: 0.014881 ms MarkObjects: 0.087749 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.974480 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.527661 ms (FindLiveObjects: 0.022065 ms CreateObjectMapping: 0.052854 ms MarkObjects: 0.099038 ms  DeleteObjects: 0.006671 ms)
+
+UnloadTime: 0.799495 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.481477 ms (FindLiveObjects: 0.020013 ms CreateObjectMapping: 0.015907 ms MarkObjects: 0.090828 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.801547 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.486609 ms (FindLiveObjects: 0.020013 ms CreateObjectMapping: 0.053368 ms MarkObjects: 0.088262 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.785639 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.443504 ms (FindLiveObjects: 0.018986 ms CreateObjectMapping: 0.016420 ms MarkObjects: 0.086209 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.783074 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.448122 ms (FindLiveObjects: 0.018986 ms CreateObjectMapping: 0.023091 ms MarkObjects: 0.088262 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.794363 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.468135 ms (FindLiveObjects: 0.020013 ms CreateObjectMapping: 0.023605 ms MarkObjects: 0.091854 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.814376 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.508674 ms (FindLiveObjects: 0.021039 ms CreateObjectMapping: 0.017447 ms MarkObjects: 0.092367 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.799495 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.460438 ms (FindLiveObjects: 0.018986 ms CreateObjectMapping: 0.023605 ms MarkObjects: 0.088775 ms  DeleteObjects: 0.005644 ms)
+
+UnloadTime: 0.788205 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.475832 ms (FindLiveObjects: 0.020013 ms CreateObjectMapping: 0.017447 ms MarkObjects: 0.091341 ms  DeleteObjects: 0.006157 ms)
+
+UnloadTime: 0.787179 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.481477 ms (FindLiveObjects: 0.020013 ms CreateObjectMapping: 0.024118 ms MarkObjects: 0.089288 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.787179 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.450175 ms (FindLiveObjects: 0.018986 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.087749 ms  DeleteObjects: 0.004618 ms)
+
+UnloadTime: 0.807192 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.675963 ms (FindLiveObjects: 0.021552 ms CreateObjectMapping: 0.026170 ms MarkObjects: 0.094933 ms  DeleteObjects: 0.006671 ms)
+
+UnloadTime: 0.794363 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.480451 ms (FindLiveObjects: 0.019499 ms CreateObjectMapping: 0.019499 ms MarkObjects: 0.085696 ms  DeleteObjects: 0.005131 ms)
+
+UnloadTime: 0.806679 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 1.505595 ms (FindLiveObjects: 0.021039 ms CreateObjectMapping: 0.028223 ms MarkObjects: 0.096986 ms  DeleteObjects: 0.006157 ms)
+
+Joystick disconnected ("Controller (USB Gamepad)").
+ 
+(Filename:  Line: 1251)
+
+Joystick connected ("Controller (USB Gamepad)").
+ 
+(Filename:  Line: 1344)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame;C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame;C:\windows;C:\windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Cole'
+OS-Version: 6.1.7601 (Service Pack 1) 0x300-0x1
+C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test.exe:test.exe (00300000), size: 12214272 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test.exe', fileVersion: 4.5.3.26353
+C:\windows\SysWOW64\ntdll.dll:ntdll.dll (77890000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7601.18247
+C:\windows\syswow64\kernel32.dll:kernel32.dll (752E0000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\kernel32.dll', fileVersion: 6.1.7601.18409
+C:\windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (76380000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7601.18409
+C:\windows\system32\HID.DLL:HID.DLL (74940000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\msvcrt.dll:msvcrt.dll (75B20000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\windows\syswow64\WS2_32.dll:WS2_32.dll (75780000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\RPCRT4.dll:RPCRT4.dll (75DA0000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.18532
+C:\windows\syswow64\SspiCli.dll:SspiCli.dll (75280000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.18526
+C:\windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (75270000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7600.16385
+C:\windows\SysWOW64\sechost.dll:sechost.dll (760C0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SysWOW64\sechost.dll', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\NSI.dll:NSI.dll (77240000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\USER32.dll:USER32.dll (77020000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\USER32.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\GDI32.dll:GDI32.dll (756F0000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\GDI32.dll', fileVersion: 6.1.7601.18577
+C:\windows\syswow64\LPK.dll:LPK.dll (76360000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\LPK.dll', fileVersion: 6.1.7601.18177
+C:\windows\syswow64\USP10.dll:USP10.dll (762B0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\USP10.dll', fileVersion: 1.626.7601.18454
+C:\windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (77120000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7601.18247
+C:\windows\system32\VERSION.dll:VERSION.dll (731E0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\ole32.dll:ole32.dll (75C40000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\ole32.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (771C0000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\SHELL32.dll:SHELL32.dll (763D0000), size: 12886016 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SHELL32.dll', fileVersion: 6.1.7601.18517
+C:\windows\system32\OPENGL32.dll:OPENGL32.dll (6A480000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\GLU32.dll:GLU32.dll (6A450000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\DDRAW.dll:DDRAW.dll (6A360000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\DCIMAN32.dll:DCIMAN32.dll (6C6A0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DCIMAN32.dll', fileVersion: 6.1.7601.18177
+C:\windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (772F0000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (757C0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7601.17621
+C:\windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (77250000), size: 585728 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.17676
+C:\windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (75A70000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7601.17621
+C:\windows\system32\dwmapi.dll:dwmapi.dll (746D0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dwmapi.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\WINMM.dll:WINMM.dll (74A60000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\MSACM32.dll:MSACM32.dll (73210000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\IMM32.dll:IMM32.dll (75BD0000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\MSCTF.dll:MSCTF.dll (758C0000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\MSCTF.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\DNSAPI.dll:DNSAPI.dll (74200000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (74B30000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\windows\system32\WINNSI.DLL:WINNSI.DLL (74B20000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (73D50000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\webio.dll:webio.dll (73D00000), size: 323584 (result: 0), SymType: '-nosymbols-', PDB: 'C:\windows\system32\webio.dll', fileVersion: 6.1.7601.17725
+C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Mono\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Cole\Documents\GitHub\TheEvenEvenMoreHarderGame\test_Data\Mono\mono.dll'
+C:\windows\syswow64\PSAPI.DLL:PSAPI.DLL (76350000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\MSWSOCK.dll:MSWSOCK.dll (74270000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.18254
+C:\windows\system32\uxtheme.dll:uxtheme.dll (74BD0000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll:tiptsf.dll (730F0000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll', fileVersion: 6.1.7601.18512
+C:\windows\system32\d3d11.dll:d3d11.dll (6D230000), size: 1527808 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\d3d11.dll', fileVersion: 6.2.9200.16570
+C:\windows\system32\dxgi.dll:dxgi.dll (6D1E0000), size: 311296 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dxgi.dll', fileVersion: 6.2.9200.16492
+C:\windows\system32\DXGIDebug.dll:DXGIDebug.dll (6DBE0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DXGIDebug.dll', fileVersion: 9.30.9600.16384
+C:\windows\syswow64\WINTRUST.dll:WINTRUST.dll (757F0000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\WINTRUST.dll', fileVersion: 6.1.7601.18205
+C:\windows\syswow64\CRYPT32.dll:CRYPT32.dll (755D0000), size: 1179648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7601.18277
+C:\windows\syswow64\MSASN1.dll:MSASN1.dll (77230000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\igd10umd32.dll:igd10umd32.dll (05660000), size: 6377472 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\igd10umd32.dll', fileVersion: 8.15.10.2342
+C:\windows\system32\D3Dx10_40.dll:D3Dx10_40.dll (6CE80000), size: 458752 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\D3Dx10_40.dll', fileVersion: 9.24.950.2656
+C:\windows\system32\MMDevAPI.DLL:MMDevAPI.DLL (747F0000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MMDevAPI.DLL', fileVersion: 6.1.7601.17514
+C:\windows\system32\PROPSYS.dll:PROPSYS.dll (746F0000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\windows\system32\wdmaud.drv:wdmaud.drv (66CC0000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wdmaud.drv', fileVersion: 6.1.7601.17514
+C:\windows\system32\ksuser.dll:ksuser.dll (73AB0000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\ksuser.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\AVRT.dll:AVRT.dll (73940000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (74AE0000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\AUDIOSES.DLL', fileVersion: 6.1.7601.17514
+C:\windows\system32\msacm32.drv:msacm32.drv (678F0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\windows\system32\midimap.dll:midimap.dll (678E0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\dsound.dll:dsound.dll (592D0000), size: 466944 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dsound.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\POWRPROF.dll:POWRPROF.dll (731B0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\POWRPROF.dll', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (75A90000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll:comctl32.dll (734D0000), size: 1695744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll', fileVersion: 6.10.7601.17514
+C:\windows\system32\oleacc.dll:oleacc.dll (74960000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\oleacc.dll', fileVersion: 7.0.0.0
+C:\windows\system32\xinput1_3.dll:xinput1_3.dll (07FC0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\windows\system32\dbghelp.dll:dbghelp.dll (73800000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x056B8504) (igd10umd32): (filename not available): OpenAdapter10_2 + 0x56b84
+(0x056CA296) (igd10umd32): (filename not available): OpenAdapter10_2 + 0x68916
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
